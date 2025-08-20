@@ -1,18 +1,18 @@
 *{
 
-    background-color: rgb(147, 118, 173);
+    background-color: rgb(185, 41, 72);
     font-family:Dancing Script;
     
 }
 
 #menusuperior {
-     background-color: blueviolet;
-     color: rgb(100, 126, 205);
+     background-color: rgb(195, 176, 35);
+     color: rgb(2, 10, 35);
 
 }
 
 #menuinformativo {
-    background-color: rgb(103, 79, 198);
+    background-color: rgb(7, 59, 63);
     display: grid;
     grid-auto-flow: column;
     columns:auto;
@@ -36,7 +36,7 @@
 }
 
 #menuconteudo {
-    background-color: aquamarine;
+    background-color: rgb(61, 205, 25);
     display: grid;
     grid-auto-flow: column;
     columns:auto;
@@ -64,7 +64,7 @@
 }
 
 #formulario {
-    background-color: aqua;
+    background-color: rgb(204, 195, 19);
     text-align: center;
 }
 
