@@ -1,18 +1,18 @@
 *{
 
-    background-color: rgb(185, 41, 72);
+    background-color: rgb(250, 185, 199);
     font-family:Dancing Script;
     
 }
 
 #menusuperior {
-     background-color: rgb(195, 176, 35);
+     background-color: rgb(220, 206, 100);
      color: rgb(2, 10, 35);
 
 }
 
 #menuinformativo {
-    background-color: rgb(7, 59, 63);
+    background-color: rgb(164, 205, 208);
     display: grid;
     grid-auto-flow: column;
     columns:auto;
