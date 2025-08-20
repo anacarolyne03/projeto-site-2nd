@@ -1,12 +1,12 @@
 *{
 
-    background-color: rgb(250, 185, 199);
+    background-color: rgb(252, 193, 131);
     font-family:Dancing Script;
     
 }
 
 #menusuperior {
-     background-color: rgb(220, 206, 100);
+     background-color: rgb(226, 150, 83);
      color: rgb(2, 10, 35);
 
 }
@@ -36,7 +36,7 @@
 }
 
 #menuconteudo {
-    background-color: rgb(61, 205, 25);
+    background-color: rgb(175, 237, 159);
     display: grid;
     grid-auto-flow: column;
     columns:auto;
